@@ -1,11 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine(" .-.");
+Console.WriteLine("(o o)");
+Console.WriteLine("| O |");
+Console.WriteLine("|   |");
+Console.WriteLine("'~~~'");
 
-
-//A3
-
-//test
-//A2
-
-
-//A3
+String Vorname = "Maryam";
+Console.WriteLine(Vorname);
+String Nachname = "Amiri";
+Console.WriteLine(Nachname);
+String Alter = "20";
+Console.WriteLine(Alter);
